@@ -1,0 +1,30 @@
+Dashboard - 
+  * 
+
+Repair order form -
+  * Section for customer information
+  * Section for generic vehicle information
+  * subtotals for each repair
+  * Each line of concern will have 3 attributes
+      - 1 / 2 / 3 / 4 / 5
+      - Type of repair
+      - Type of complaint
+  * Link or a button, that will go to vehicle inspection form.
+      - Checklist of all components of vehicle
+          - If bad, should be able to leave comments
+  * Complaint / Resolution section (CCR)
+  * Form should be edit-able up until final step:
+      - Mechanic 'submitting' report to customer 
+      - Customer paying
+      - Keep track of edits (lower priority)
+  * Total estimate amount
+  
+Service Advisor's focus:
+  * Sees all the information 
+  
+Mechanic's focus:
+  * Should also see estimated amount of hours per job
+
+Mechanic's Customer's focus:
+  * Software to help customers determine if they are getting scammed for a service or not.
+      
