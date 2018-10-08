@@ -1,6 +1,8 @@
-Dashboard - 
-  * 
-
+SPRINT 1
+- Create customer entry
+ - Create vehicle entry, tie vehicle to a customer
+ - Repair order form
+ - Vehicle inspection form
 Repair order form -
   * Section for customer information
   * Section for generic vehicle information
